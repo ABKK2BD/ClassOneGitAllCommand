@@ -15,7 +15,7 @@ Step5: For the file into vscode editor
 	$code FileName.withExtension
 
 Step6: Then you can write code into your file.
-
+ 
 Step7: After writing code you can check your git status by this command. And you show redmark file. Because you do not stage your file yet into git.
 	$git status
 

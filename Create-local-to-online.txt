@@ -17,7 +17,7 @@ Step6: For create a file.
 Step7: For the file into vscode editor
 	$code .
 	or 
-	$code FileName.withExtension
+	$code FileName.withExtension 
 
 Step8: Then you can write code into your file.
 

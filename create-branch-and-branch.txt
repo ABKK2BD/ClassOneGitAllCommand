@@ -20,5 +20,5 @@ step2: For merge a branch follow this command.
 
 step3: If we have to merge manually then we have to do this step.
 	$git add .
-	$git commit -m "message"
+	$git commit -m "message" 
 done.
