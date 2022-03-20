@@ -10,7 +10,9 @@ Step4: For initiate the directory by using this command.
 	$git init
 
 Step5: A .git folder created in your directory. It's hidden.For show you have to select (show hidden file) in your windows.
-
+#step for create folder
+	#mkdir FolderName.
+	
 Step6: For create a file.
 	$touch FileName.withExtension
 
